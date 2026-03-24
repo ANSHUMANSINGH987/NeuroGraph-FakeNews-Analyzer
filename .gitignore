@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+
+# Ignore large datasets if any
+*.csv
+*.json
