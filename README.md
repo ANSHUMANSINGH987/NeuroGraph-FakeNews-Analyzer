@@ -5,8 +5,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://neurograph-fakenews-analyzer-ursvtxcpzlievduhp6xfdv.streamlit.app/)
 
 > **A Multi-Task Graph Neural Network Framework utilizing Inorganic Propagation Ratios (IPR) to detect misinformation based on structural network topology.**
+
+**🚀 [Try the Live Interactive Demo Here!](https://neurograph-fakenews-analyzer-ursvtxcpzlievduhp6xfdv.streamlit.app/)**
 
 ## 📖 About The Project
 
